@@ -16,6 +16,12 @@ console.log(x);
 console.log(x==8)
 console.log(x!=8)
 
+function welcomeuser() {
+    var user =prompt('please inter your mane')
+}
+
+return Document.write('<h3>' + 'hello' + user + '<h3>')
+
 
 var sports = prompt('What is your best sport?');
 
