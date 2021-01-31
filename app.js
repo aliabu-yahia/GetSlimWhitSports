@@ -19,7 +19,7 @@ console.log(x!=8)
 
 var sports = prompt('What is your best sport?');
 
-while(sports !=='football' && sports!=='bascetball' && sports!=='tennis'){
+while(sports !=='football' & sports!=='bascetball' && sports!=='tennis'){
     sports =prompt('please choose one of football, bascetball or tennis ')
 }
 
@@ -51,5 +51,5 @@ document.write( result );
 
 for(var i = 1 ; i<= star ; i++){
     document.write('<br>'+'* ')};
-    
+
 

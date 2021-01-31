@@ -1,0 +1,17 @@
+*{
+    margin: 12px;
+
+}
+FOoter ul {
+    list-style:none;
+    background-color: seagreen;
+}
+footer ul li{
+    display: inline-block;
+    text-align: center;
+    border: 3px solid #262726;
+    font-size: 33px;
+}
+main FirstParagraph{
+    color: rgb(21, 226, 73);
+}
